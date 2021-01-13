@@ -1,0 +1,14 @@
+ul li{
+	padding:0 20px;
+}
+ul li:hover {
+	background-color: #1abc9c;
+}
+ul li:hover a{
+	color: white!important;
+}
+ul li a{
+	font-size: 20px;
+	cursor: pointer;
+	color: #2c3e50;
+}
